@@ -1,2 +1,3 @@
 # scatter_errorbar
-scatter_errorbar plot for matplotlib
+scatter + errorbar plot for matplotlib
+I thank R. Araki for his helpful comments.
